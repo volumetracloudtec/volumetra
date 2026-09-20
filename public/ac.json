@@ -1,0 +1,21 @@
+{
+  "version": "v1.0.0",
+  "title": {
+    "en": "Meet the New Volumetra",
+    "zh-SG": "焕新 Volumetra，全新体验",
+    "zh-TW": "煥新 Volumetra，全新體驗",
+    "ja-JP": "新しくなった Volumetra",
+    "ko-KR": "새로워진 Volumetra를 만나보세요"
+  },
+  "content": {
+    "en": "The new Volumetra is here.\n\nFaster. Smoother. Built to stay connected.\n\nThis release introduces major improvements to performance, connectivity, stability, and resource efficiency—delivering a faster and more consistent experience across supported platforms.\n\nWhat's new:\n⚡ Faster startup and response times\n🧠 Smarter runtime optimization\n🛰 Stronger and more consistent connectivity\n🔒 Improved security and system reliability\n🚀 Better stability for extended sessions\n\nUpdate now and discover the latest Volumetra experience.\n\nReady for every journey.\nConnected when it matters.\n\n— Volumetra Team",
+    "zh-SG": "全新的 Volumetra，现已上线。\n\n更快、更流畅，连接始终在线。\n\n本次更新对性能、连接能力、系统稳定性与资源效率进行了全面升级，让 Volumetra 在各支持平台上都能带来更加快速、流畅且稳定的使用体验。\n\n本次更新亮点：\n⚡ 更快的启动与响应速度\n🧠 更智能的运行优化机制\n🛰 更稳定、更持续的连接体验\n🔒 进一步提升安全性与系统可靠性\n🚀 优化长时间运行时的稳定表现\n\n立即更新，体验焕然一新的 Volumetra。\n\n随时出发，\n始终保持连接。\n\n—— Volumetra Team",
+    "zh-TW": "全新的 Volumetra，現已上線。\n\n更快、更流暢，連線始終在線。\n\n本次更新全面提升效能、連線能力、系統穩定性與資源效率，讓 Volumetra 在各支援平台上都能帶來更快速、流暢且穩定的使用體驗。\n\n本次更新亮點：\n⚡ 更快的啟動與反應速度\n🧠 更智慧的運行最佳化機制\n🛰 更穩定、更持續的連線體驗\n🔒 進一步提升安全性與系統可靠性\n🚀 改善長時間運行時的穩定表現\n\n立即更新，體驗煥然一新的 Volumetra。\n\n隨時出發，\n始終保持連線。\n\n—— Volumetra Team",
+    "ja-JP": "新しくなった Volumetra が登場しました。\n\nより速く、よりスムーズに。つながる体験を、さらに快適に。\n\n今回のアップデートでは、パフォーマンス、接続性、システムの安定性、リソース効率を幅広く改善しました。対応する各プラットフォームで、より高速かつ安定した Volumetra をご利用いただけます。\n\n主なアップデート：\n⚡ 起動速度とレスポンスを向上\n🧠 よりスマートな実行時最適化\n🛰 より安定した継続的な接続\n🔒 セキュリティとシステム信頼性を強化\n🚀 長時間利用時の安定性を改善\n\n今すぐアップデートして、新しくなった Volumetra をお試しください。\n\nどこへ行くときも。\n必要なときに、確かにつながる。\n\n— Volumetra Team",
+    "ko-KR": "새로워진 Volumetra를 만나보세요.\n\n더 빠르고, 더 부드럽게. 언제나 안정적인 연결을 위해.\n\n이번 업데이트에서는 성능, 연결성, 시스템 안정성 및 리소스 효율을 전반적으로 개선했습니다. 지원되는 모든 플랫폼에서 더욱 빠르고 일관된 Volumetra 경험을 제공합니다.\n\n주요 업데이트:\n⚡ 더욱 빨라진 시작 및 응답 속도\n🧠 더 스마트한 실행 환경 최적화\n🛰 더욱 안정적이고 지속적인 연결\n🔒 향상된 보안 및 시스템 신뢰성\n🚀 장시간 사용 환경에서 개선된 안정성\n\n지금 업데이트하고 새로워진 Volumetra를 경험해 보세요.\n\n어디서든 준비된 연결.\n필요한 순간, 언제나 함께합니다.\n\n— Volumetra Team"
+  },
+  "WindownloadUrl": "https://github.com/volumetracloudtec/volumetra/releases/",
+  "MacdownloadUrl": "https://github.com/volumetracloudtec/volumetra/releases/",
+  "Mac86downloadUrl": "https://github.com/volumetracloudtec/volumetra/releases/",
+  "mandatory": false
+}
